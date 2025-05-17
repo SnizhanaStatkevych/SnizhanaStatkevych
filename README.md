@@ -17,8 +17,7 @@ Currently, I'm learning **JavaScript** and **Playwright** to grow into an Automa
 
 ---
 
-<h2 align="center">Feel free to reach out — I’m happy to connect📲</h2>
-  
+<h2 align="center">Feel free to reach out — I’m happy to connect📲</h2> 
 <p align="center">
   <a href="https://www.linkedin.com/in/snizhana-statkevych-4ab247277/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
