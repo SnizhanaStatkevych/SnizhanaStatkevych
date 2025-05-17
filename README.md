@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**SnizhanaStatkevych/SnizhanaStatkevych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there! I'm a QA Engineer learning Test Automation
 
-Here are some ideas to get you started:
+I'm a **Manual QA Engineer** with 2 years of experience in web and mobile testing.  
+Currently, I'm learning **JavaScript** and **Playwright** to grow into an Automation QA role.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools
+
+- ✅ Manual Testing (Web & Mobile)
+- ✅ API Testing: Postman, Swagger
+- ✅ SQL (basic level)
+- ✅ JavaScript for Automation
+- ✅ Playwright (UI & API automation)
+- ✅ Emulators, BrowserStack, JMeter
+
+---
