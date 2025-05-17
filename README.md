@@ -1,8 +1,8 @@
 
-# 👋 Hi there! I'm a QA Engineer learning Test Automation
+# 👋 Hi there! I'm Snizhana
 
-I'm a **Manual QA Engineer** with 2 years of experience in web and mobile testing.  
-Currently, I'm learning **JavaScript** and **Playwright** to grow into an Automation QA role.
+I'm a **Manual QA Engineer** with 2 years of experience in web and mobile testing
+Currently, I'm learning **JavaScript** and **Playwright** to grow into an Automation QA role
 
 ---
 
@@ -16,3 +16,7 @@ Currently, I'm learning **JavaScript** and **Playwright** to grow into an Automa
 - ✅ Emulators, BrowserStack, JMeter
 
 ---
+
+📫 How to reach me 💬
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
