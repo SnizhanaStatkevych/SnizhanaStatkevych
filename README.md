@@ -17,6 +17,13 @@ Currently, I'm learning **JavaScript** and **Playwright** to grow into an Automa
 
 ---
 
-📫 How to reach me 💬
-<p align="left">
+## 📫 How to reach me 💬
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/snizhana-statkevych-4ab247277/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+Languages:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
